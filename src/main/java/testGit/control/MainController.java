@@ -13,7 +13,7 @@ public class MainController {
     @RequestMapping("/")
     @ResponseBody
     String home() {
-        return "Hello World!AAA";
+        return "Hello World!AAA master1";
     }
 }
 
